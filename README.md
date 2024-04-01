@@ -1,1 +1,1 @@
-## Student performance analysis system
+## Student Performance Analysis system
