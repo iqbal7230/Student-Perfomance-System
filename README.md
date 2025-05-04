@@ -2,6 +2,10 @@
 
 Welcome to the Student Performance Analysis System project. This system is designed to analyze and visualize student performance data to help educators make informed decisions.
 
+### Video Demonstration
+Watch the video below to see the project in action:
+![alt text](screenshots/stdperformanceindicator.gif)
+
 ### Features
 - Data import from various sources
 - Performance metrics calculation
@@ -9,9 +13,7 @@ Welcome to the Student Performance Analysis System project. This system is desig
 - Customizable reports
 
 
-### Video Demonstration
-Watch the video below to see the project in action:
-![alt text](screenshots/stdperformanceindicator.gif)
+
 
 
 ### Contributing
